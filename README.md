@@ -1,0 +1,2 @@
+# EuclideanDistance
+Öklid mesafesini ölçer.
